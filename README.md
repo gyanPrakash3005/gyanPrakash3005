@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyan Prakash</h1>
-<h3 align="center">A passionate frontend developer with almost 3 years of experience in working with large amounts of data and reporting capabilities. Technical proficiency in Angular and ReactJS Libraries, alongside SharePoint Application Development using Agile Scrum methodology which includes requirements gathering, analysis and design, coding, testing and deployment.</h3>
+<h3 align="center">A passionate frontend developer with almost 4 years of experience in working with large amounts of data and reporting capabilities. Technical proficiency in Angular and ReactJS Libraries, alongside SharePoint Application Development using Agile Scrum methodology which includes requirements gathering, analysis and design, coding, testing and deployment.</h3>
 
 - 🌱 I’m currently learning **ReactJS with SPFX.**
 
