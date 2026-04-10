@@ -1,89 +1,128 @@
-<h1 align="center">Hi there, I'm Gyan Prakash 👋</h1>
+```
+╔══════════════════════════════════════════════════════╗
+║  ~/gyan-prakash  ~  zsh                              ║
+╠══════════════════════════════════════════════════════╣
+║  $ whoami                                            ║
+║                                                      ║
+║  > Gyan Prakash                                      ║
+║  > Full-Stack Developer · 6+ yrs · Always building   ║
+║  > Bangalore, India                                  ║
+╚══════════════════════════════════════════════════════╝
+```
 
-<h3 align="center">
-  Full-Stack Developer · 6+ Years · Angular & React Specialist · Always Building, Always Learning
-</h3>
+<h1 align="center">Gyan Prakash</h1>
 
 <p align="center">
-  <em>
-    I love working at the intersection of complex data and intuitive interfaces —<br/>
-    whether that's a real-time healthcare intelligence platform serving 1,000+ pharma clients,<br/>
-    or a smart meter network dashboard managing millions of connected devices globally.
-  </em>
+  <strong>Full-Stack Developer</strong> · Angular & React Specialist · Java · .NET<br/>
+  Building data-intensive applications that perform at scale
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1D9E75?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Clients%20Served-1000%2B-7F77DD?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Performance%20Gained-40%25-378ADD?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-D85A30?style=flat-square&labelColor=0d1117" />
 </p>
 
 ---
 
-### 🚀 What I Do
+## `$ cat about.txt`
 
-- 🏗️ Build **data-intensive full-stack web applications** — Angular 2–18, React.js, Java, .NET/C#
-- 📊 Turn complex datasets into **interactive visualizations** — D3.js, Apex Charts, Nivo Charts, Power BI
-- ⚡ Obsess over **performance** — OnPush change detection, lazy loading, RxJS patterns, NgRx state management
-- 🌐 Work across **healthcare SaaS, industrial IoT (AMI), and enterprise platforms**
-- 🔁 Currently deep-diving into **Angular 18 Signals** and **reactive architecture patterns**
+I build data-intensive web applications that actually perform at scale —
+real-time healthcare intelligence for **1,000+ pharma clients**, smart meter dashboards
+across **millions of connected devices**, and enterprise platforms used by people every day.
 
----
-
-### 🧠 Things I'm Exploring Right Now
-
-- 🔬 Angular 18 Signals & fine-grained reactivity
-- 🛡️ Multi-tenant security architectures for OT/IT dashboards
-- 🧩 Monaco Editor integrations for in-app rule/code editing
-- 🤖 AI-assisted developer tooling and workflow automation
+> _Always exploring. Always shipping._
 
 ---
 
-### 💬 Ask Me About
+## `$ ls ./experience`
 
-`Angular` · `React.js` · `NgRx` · `RxJS` · `D3.js` · `SharePoint/SPFX` · `Java Spring` · `.NET` · `Power BI integration` · `Performance optimization`
+### 🟢 Harman · Senior Software Engineer &nbsp;`May 2022 – Present`
+
+Full-stack development across **healthcare SaaS** and **industrial IoT** as client-facing engineering teams.
+
+**Metys® — Symphony Health (ICON plc)** · `Angular 16 · Java · RxJS · REST APIs`
+> The market's only fully integrated real-time healthcare market intelligence platform — 1,000+ pharma & healthcare clients, 150+ metrics across prescription analytics and sales data.
+- Led **AngularJS → Angular 16** full presentation layer migration while preserving the existing Java backend
+- **~40% reduction** in report rendering time — OnPush change detection + lazy loading on data-heavy dashboards
+- Eliminated memory leaks on long-running analyst sessions using RxJS patterns (`switchMap`, `debounceTime`, `takeUntil`)
+- 10+ client-driven enhancements delivered with 100% on-time across two release cycles
+
+**Rhebo Security Dashboard — Landis+Gyr** · `Angular 18 · .NET · Google Chronicle · REST APIs`
+> Multi-tenant OT/IT security analytics platform for enterprise utility companies.
+- Architected **multi-tenant auth & data isolation** layer — strict separation across customer organizations
+- Built **Monaco Editor-based custom rule editor** — security analysts deploy alert logic without engineering support
+- Implemented **Angular 18 Signals** for a fully configurable widget dashboard (add / remove / resize / drag / drop / persist)
+
+**Gridstream HES UI — Landis+Gyr** · `Angular 12 · NgRx · RxJS · Apex Charts · Java`
+> Front-end for the enterprise AMI platform managing smart meter ops globally.
+- Led **NgRx Redux store** implementation — resolved async race conditions across device lifecycle screens
+- Built Apex Charts visualizations for device metrics giving network ops real-time insight into meter health
 
 ---
 
-### 🏆 Highlights
+### ⚪ Ernst & Young · Software Engineer &nbsp;`March 2019 – April 2022`
 
-- 🏥 Led **AngularJS → Angular 16** migration for **Metys** (ICON/Symphony Health) — a real-time healthcare market intelligence platform used by **1,000+ pharma & healthcare clients**
-- ⚡ Reduced report rendering time by **~40%** through Angular performance tuning on data-heavy analyst dashboards
-- 🔌 Built front-end systems for **Landis+Gyr's Gridstream AMI** — managing smart meter networks for energy utilities globally
-- 🛠️ Architected a **fully configurable widget dashboard** using Angular 18 Signals with drag, drop, resize, and JSON-persisted layouts
-- 🏅 Received the **GDS Tax Account Team of the Year** award at EY Invictus Tax Townhall 2021
+Custom SharePoint, Angular, and React platforms for global enterprise tax & governance clients.
+
+**Italian Green Tax Credit Platform** · `Angular 8 · D3.js · SharePoint REST · Kendo UI`
+> 🏆 **Award: GDS Tax Account Team of the Year — EY Invictus Tax Townhall 2021**
+- Scaled to **20 enterprise clients** via configurable base platform — eliminated per-client dev effort
+- D3.js **world map + org chart** for cross-border tax credit tracking and entity relationship mapping
+- Built formatted multi-sheet Excel export, replacing a daily manual reporting process
+
+**Project Biathlon — Lenovo Governance Portal** · `React.js · SPFX · Power BI · Power Automate`
+- Custom React/SPFX web parts for EY professionals and external clients to manage tax data in SharePoint
+
+**CH TaxBot — CharterHall & Centuria** · `JavaScript · Kendo UI · Power Automate`
+- **23% DOM load time reduction** using `DocumentFragment` for bulk DOM manipulation (measured via Chrome DevTools)
+- Led CGT module end-to-end with Power Automate automated client notifications
+
+**Casper — Compensation Planning Tool** · `Angular 8 · Kendo UI · Power BI`
+- Internal compensation platform reducing manual HR effort by **40%** through automated computation workflows
 
 ---
 
-### 🛠️ Tech Stack
+## `$ cat ./stack.json`
+
+```json
+{
+  "core": ["Angular 2–18 (Signals)", "React.js", "TypeScript", "RxJS", "NgRx"],
+  "languages": ["JavaScript ES6+", "Java (Spring)", "C# / .NET"],
+  "dataViz": ["D3.js", "Apex Charts", "Nivo Charts", "Power BI SSO"],
+  "ui": ["Angular Material", "MS Fluent UI", "Kendo UI", "Ant Design"],
+  "microsoft": ["SharePoint", "SPFX", "Power Automate", "Azure DevOps", "PnP.js"],
+  "devTools": ["Git", "TFS", "Monaco Editor", "Webpack", "Lazy Loading", "OnPush CD"]
+}
+```
+
+---
+
+## `$ tail -f ./learning.log`
+
+```
+[ACTIVE]  Angular 18 Signals — fine-grained reactivity, migrating from RxJS-heavy flows
+[ACTIVE]  Multi-tenant security architecture for OT/IT dashboards
+[ACTIVE]  Monaco Editor deep integrations — in-app DSL rule editors for non-devs
+[ACTIVE]  AI-assisted developer tooling & workflow automation
+```
+
+---
+
+## `$ ls ./connect`
 
 <p align="left">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/></a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>&nbsp;
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/></a>&nbsp;
-  <a href="https://d3js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/></a>&nbsp;
-  <a href="https://rxjs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/ReactiveX/rxjs/master/docs_app/assets/Rx_Logo-512-512.png" alt="RxJS" width="40" height="40"/></a>&nbsp;
-  <a href="https://ngrx.io/" target="_blank"><img src="https://ngrx.io/assets/images/badge.svg" alt="NgRx" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>&nbsp;
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="mailto:gyanprakash480@gmail.com">
+    <img src="https://img.shields.io/badge/gyanprakash480@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gyan-prakash">
+    <img src="https://img.shields.io/badge/LinkedIn-gyan--prakash-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  </a>
 </p>
-
-**Microsoft Platform:** SharePoint · Power Automate · Power BI · Azure DevOps · SPFX · PnP.js  
-**Data Viz:** D3.js · Apex Charts · Nivo Charts · Power BI SSO  
-**UI Libraries:** Angular Material · MS Fluent UI · Kendo UI · Ant Design  
-**Dev Practices:** Lazy Loading · OnPush Change Detection · Monaco Editor · Webpack · TFS
-
----
-
-### 📫 Reach Me
-
-- 📧 **gyanprakash480@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/gyan-prakash)
-- 🐙 [GitHub](https://github.com)
 
 ---
 
 <p align="center">
-  <i>"Good software is never finished — it just gets closer to what it should be."</i>
+  <sub><i>"Good software is never finished — it just gets closer to what it should be."</i></sub>
 </p>
