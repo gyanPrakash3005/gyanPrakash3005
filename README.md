@@ -1,128 +1,188 @@
+<!-- ============================================================
+     GYAN PRAKASH — GitHub Profile README
+     Aesthetic: Dark terminal meets editorial tech — monospace
+     meets bold type, animated SVG banner, teal/amber accents.
+     ============================================================ -->
+
+<div align="center">
+
+<!-- ANIMATED TYPING BANNER -->
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&height=80&lines=Hi+there%2C+I'm+Gyan+Prakash+%F0%9F%91%8B;Full-Stack+Developer+%C2%B7+6%2B+Years;Angular+%7C+React+%7C+Java+%7C+.NET;Always+Building.+Always+Learning." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=1500&color=F0883E&center=true&vCenter=true&width=600&lines=Healthcare+SaaS+%C2%B7+Industrial+IoT+%C2%B7+Enterprise+Platforms;Shipping+code+for+1%2C000%2B+pharma+clients+%26+millions+of+smart+meters;Based+in+Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Subtitle typing SVG" />
+
+---
+
+<!-- GITHUB STATS -->
+<table>
+<tr>
+<td>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gyanprakash3005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=f0883e&text_color=8b949e&rank_icon=github&include_all_commits=true" />
+</td>
+<td>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakash3005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&langs_count=6" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gyanprakash480&theme=dark&hide_border=true&background=0D1117&ring=00D4AA&fire=F0883E&currStreakLabel=00D4AA" alt="streak stats"/>
+
+</div>
+
+---
+
+## `> about_me.ts`
+
+```typescript
+const gyan: Developer = {
+  location:    "Bangalore, India 🇮🇳",
+  experience:  "6+ years",
+  type:        "Full-Stack (Frontend-heavy)",
+  stack:       ["Angular 2–18", "React.js", "Java Spring", ".NET / C#"],
+  currentRole: "Senior Product Engineer @ Harman ",
+  domains:     ["Healthcare SaaS", "Industrial IoT / AMI", "Enterprise Platforms"],
+  superpower:  "Turning complex, high-volume data into fast, intuitive UIs",
+  nowLearning: ["Angular 18 Signals", "Reactive Architecture", "AI-assisted tooling"],
+  openTo:      "Senior / Lead Full-Stack roles at product-focused companies",
+  quote:       "Good software is never finished — it just gets closer.",
+};
 ```
-╔══════════════════════════════════════════════════════╗
-║  ~/gyan-prakash  ~  zsh                              ║
-╠══════════════════════════════════════════════════════╣
-║  $ whoami                                            ║
-║                                                      ║
-║  > Gyan Prakash                                      ║
-║  > Full-Stack Developer · 6+ yrs · Always building   ║
-║  > Bangalore, India                                  ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<h1 align="center">Gyan Prakash</h1>
-
-<p align="center">
-  <strong>Full-Stack Developer</strong> · Angular & React Specialist · Java · .NET<br/>
-  Building data-intensive applications that perform at scale
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-6%2B%20Years-1D9E75?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Clients%20Served-1000%2B-7F77DD?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Performance%20Gained-40%25-378ADD?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-D85A30?style=flat-square&labelColor=0d1117" />
-</p>
 
 ---
 
-## `$ cat about.txt`
+## `> ./career --highlight-reel`
 
-I build data-intensive web applications that actually perform at scale —
-real-time healthcare intelligence for **1,000+ pharma clients**, smart meter dashboards
-across **millions of connected devices**, and enterprise platforms used by people every day.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> _Always exploring. Always shipping._
+### 🏥 Metys — Healthcare Intelligence Platform
+**ICON / Symphony Health &nbsp;·&nbsp; Angular 16 + Java**
+
+Real-time healthcare market intelligence for **1,000+ pharma & healthcare clients** — prescription analytics, sales data, and market insights across **150+ metrics**.
+
+- ✦ Led full **AngularJS → Angular 16** migration
+- ✦ **~40% faster** report rendering via OnPush + lazy loading
+- ✦ Eliminated memory leaks on long analyst sessions with RxJS patterns
+- ✦ 10+ client-driven features, **100% on-time delivery**
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Rhebo — OT/IT Security Dashboard
+**Landis+Gyr &nbsp;·&nbsp; Angular 18 + Google Chronicle**
+
+Multi-tenant security analytics for energy utilities — threat intelligence powered by **Google Chronicle**.
+
+- ✦ **Monaco Editor** rule engine — self-service alert logic, days → instant
+- ✦ **Angular 18 Signals** powering a fully configurable drag/drop/resize widget dashboard
+- ✦ Architected strict multi-tenant data isolation for enterprise utility orgs
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Gridstream HES — Smart Meter Platform
+**Landis+Gyr &nbsp;·&nbsp; Angular 12 + NgRx + Java**
+
+AMI platform managing **millions of smart meters** for global energy utilities.
+
+- ✦ Led **NgRx Redux** store — resolved async race conditions across device lifecycle screens
+- ✦ Real-time Apex Charts for meter health & reading stats
+- ✦ Bidirectional comms layer with Head End System for device ops
+
+</td>
+<td width="50%" valign="top">
+
+### 🏅 Italian Green Tax Credit Platform
+**Ernst & Young &nbsp;·&nbsp; Angular 8 + D3.js + Kendo UI**
+
+🏆 *GDS Tax Account Team of the Year — Invictus Tax Townhall 2021*
+
+- ✦ One configurable base platform → scaled across **20 enterprise clients**
+- ✦ Interactive **D3.js world map** for cross-border tax credit & entity relationship tracking
+- ✦ Multi-sheet Excel export replacing a fully manual daily process
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ ls ./experience`
-
-### 🟢 Harman · Senior Software Engineer &nbsp;`May 2022 – Present`
-
-Full-stack development across **healthcare SaaS** and **industrial IoT** as client-facing engineering teams.
-
-**Metys® — Symphony Health (ICON plc)** · `Angular 16 · Java · RxJS · REST APIs`
-> The market's only fully integrated real-time healthcare market intelligence platform — 1,000+ pharma & healthcare clients, 150+ metrics across prescription analytics and sales data.
-- Led **AngularJS → Angular 16** full presentation layer migration while preserving the existing Java backend
-- **~40% reduction** in report rendering time — OnPush change detection + lazy loading on data-heavy dashboards
-- Eliminated memory leaks on long-running analyst sessions using RxJS patterns (`switchMap`, `debounceTime`, `takeUntil`)
-- 10+ client-driven enhancements delivered with 100% on-time across two release cycles
-
-**Rhebo Security Dashboard — Landis+Gyr** · `Angular 18 · .NET · Google Chronicle · REST APIs`
-> Multi-tenant OT/IT security analytics platform for enterprise utility companies.
-- Architected **multi-tenant auth & data isolation** layer — strict separation across customer organizations
-- Built **Monaco Editor-based custom rule editor** — security analysts deploy alert logic without engineering support
-- Implemented **Angular 18 Signals** for a fully configurable widget dashboard (add / remove / resize / drag / drop / persist)
-
-**Gridstream HES UI — Landis+Gyr** · `Angular 12 · NgRx · RxJS · Apex Charts · Java`
-> Front-end for the enterprise AMI platform managing smart meter ops globally.
-- Led **NgRx Redux store** implementation — resolved async race conditions across device lifecycle screens
-- Built Apex Charts visualizations for device metrics giving network ops real-time insight into meter health
-
----
-
-### ⚪ Ernst & Young · Software Engineer &nbsp;`March 2019 – April 2022`
-
-Custom SharePoint, Angular, and React platforms for global enterprise tax & governance clients.
-
-**Italian Green Tax Credit Platform** · `Angular 8 · D3.js · SharePoint REST · Kendo UI`
-> 🏆 **Award: GDS Tax Account Team of the Year — EY Invictus Tax Townhall 2021**
-- Scaled to **20 enterprise clients** via configurable base platform — eliminated per-client dev effort
-- D3.js **world map + org chart** for cross-border tax credit tracking and entity relationship mapping
-- Built formatted multi-sheet Excel export, replacing a daily manual reporting process
-
-**Project Biathlon — Lenovo Governance Portal** · `React.js · SPFX · Power BI · Power Automate`
-- Custom React/SPFX web parts for EY professionals and external clients to manage tax data in SharePoint
-
-**CH TaxBot — CharterHall & Centuria** · `JavaScript · Kendo UI · Power Automate`
-- **23% DOM load time reduction** using `DocumentFragment` for bulk DOM manipulation (measured via Chrome DevTools)
-- Led CGT module end-to-end with Power Automate automated client notifications
-
-**Casper — Compensation Planning Tool** · `Angular 8 · Kendo UI · Power BI`
-- Internal compensation platform reducing manual HR effort by **40%** through automated computation workflows
-
----
-
-## `$ cat ./stack.json`
+## `> cat skills.json`
 
 ```json
 {
-  "core": ["Angular 2–18 (Signals)", "React.js", "TypeScript", "RxJS", "NgRx"],
-  "languages": ["JavaScript ES6+", "Java (Spring)", "C# / .NET"],
-  "dataViz": ["D3.js", "Apex Charts", "Nivo Charts", "Power BI SSO"],
-  "ui": ["Angular Material", "MS Fluent UI", "Kendo UI", "Ant Design"],
-  "microsoft": ["SharePoint", "SPFX", "Power Automate", "Azure DevOps", "PnP.js"],
-  "devTools": ["Git", "TFS", "Monaco Editor", "Webpack", "Lazy Loading", "OnPush CD"]
+  "languages":   ["TypeScript", "JavaScript (ES6+)", "Java", "C#"],
+  "frontend":    ["Angular 2–18 (incl. Signals)", "React.js", "RxJS", "NgRx",
+                  "Angular Material", "MS Fluent UI", "Kendo UI", "Ant Design"],
+  "data_viz":    ["D3.js", "Apex Charts", "Nivo Charts", "Power BI SSO Integration"],
+  "backend":     ["Java Spring", ".NET / C#", "REST APIs", "SOAP",
+                  "SPFX", "SharePoint REST", "PnP.js"],
+  "microsoft":   ["SharePoint", "Power Automate", "Power BI", "Azure DevOps"],
+  "dev_tools":   ["Git", "TFS", "Webpack", "Monaco Editor", "Chrome DevTools"],
+  "practices":   ["Lazy Loading", "OnPush Change Detection", "NgRx Redux",
+                  "Agile Scrum", "End-to-end feature ownership"]
 }
 ```
 
 ---
 
-## `$ tail -f ./learning.log`
-
-```
-[ACTIVE]  Angular 18 Signals — fine-grained reactivity, migrating from RxJS-heavy flows
-[ACTIVE]  Multi-tenant security architecture for OT/IT dashboards
-[ACTIVE]  Monaco Editor deep integrations — in-app DSL rule editors for non-devs
-[ACTIVE]  AI-assisted developer tooling & workflow automation
-```
-
----
-
-## `$ ls ./connect`
+## `> ls -la ./tech-stack`
 
 <p align="left">
-  <a href="mailto:gyanprakash480@gmail.com">
-    <img src="https://img.shields.io/badge/gyanprakash480@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,java,dotnet,d3,rxjs,sass,git,firebase,html,css,bootstrap&perline=7" />
+</p>
+
+---
+
+## `> ping --current-status`
+
+```
+🌱  Currently learning .......... Angular 18 Signals · Reactive Architecture Patterns · AI-assisted tooling
+🔭  Currently building ........... Metys — Healthcare Intelligence Platform · Gridstream HES features
+🤝  Open to ...................... Senior / Lead Full-Stack roles at product companies
+🏙️  Based in ..................... Bangalore, India
+⚡  Fun fact ..................... I've shipped code for pharma analytics platforms
+                                   AND industrial smart meter networks. Same week.
+```
+
+---
+
+## `> connect --social`
+
+<p align="left">
+  <a href="https://linkedin.com/in/gyan-prakash" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gyan%20Prakash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/gyan-prakash">
-    <img src="https://img.shields.io/badge/LinkedIn-gyan--prakash-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" />
+  &nbsp;
+  <a href="mailto:gyanprakash480@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gyanprakash480%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gyanprakash480" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <sub><i>"Good software is never finished — it just gets closer to what it should be."</i></sub>
-</p>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gyanprakash480&color=00d4aa&style=flat-square&label=profile+views" />
+
+<br/><br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │  "Good software is never finished.                           │
+  │   It just gets closer to what it should be."                 │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+![Snake animation](https://github.com/gyanPrakash3005/gyanPrakash3005/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
