@@ -14,23 +14,30 @@
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=14&duration=3500&pause=1500&color=F0883E&center=true&vCenter=true&width=600&lines=Healthcare+SaaS+%C2%B7+Industrial+IoT+%C2%B7+Enterprise+Platforms;Shipping+code+for+1%2C000%2B+pharma+clients+%26+millions+of+smart+meters;Based+in+Bangalore%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Subtitle typing SVG" />
 
 ---
-
-<!-- GITHUB STATS -->
-<table>
-<tr>
-<td>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=gyanprakash3005&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=f0883e&text_color=8b949e&rank_icon=github&include_all_commits=true" />
-</td>
-<td>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanprakash3005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=8b949e&langs_count=6" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gyanprakash480&theme=dark&hide_border=true&background=0D1117&ring=00D4AA&fire=F0883E&currStreakLabel=00D4AA" alt="streak stats"/>
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gyanprakash3005&theme=github_dark"
+  height="180" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gyanprakash3005&theme=github_dark"
+  height="180" alt="Top Languages by Commit" />
+ 
+<br/><br/>
+ 
+<!-- STREAK — demolab is the most stable streak service -->
+<img
+  src="https://streak-stats.demolab.com?user=gyanprakash3005&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00D4AA&fire=F0883E&currStreakLabel=00D4AA&sideLabels=8b949e&dates=8b949e&stroke=1a2332"
+  alt="GitHub Streak" />
+ 
+<br/><br/>
+ 
+<!-- CONTRIBUTION GRAPH — most reliable hosted option -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=gyanprakash3005&bg_color=0d1117&color=00d4aa&line=00d4aa&point=f0883e&area=true&area_color=00d4aa&hide_border=true&custom_title=Contribution+Graph"
+  alt="Contribution Graph" width="95%" />
+ 
+<br/>
+ 
 </div>
-
+ 
 ---
 
 ## `> about_me.ts`
